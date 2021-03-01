@@ -22,7 +22,7 @@ Y listo!
 
 ## Preview:
 <p align="center">
-<img src="https://i.ibb.co/Symw8dQ/Screenshot-2021-03-01-10-30-13-842-com-termux.jpg" alt="PREVIEW" width="350px" height="700px">
+<img src="https://i.ibb.co/hXmMVpd/Screenshot-2021-03-01-13-08-47-528-com-termux.jpg" alt="PREVIEW" width="350px" height="650px">
 </p>
 
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
