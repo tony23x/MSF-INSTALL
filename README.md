@@ -18,6 +18,9 @@ Script solo para Termux que automatiza la instalación de Metasploit Framework
 Y listo!
 
 ## Preview del script:
-![IMG_20200510_124301](https://user-images.githubusercontent.com/55555800/81506646-7190a300-92bd-11ea-8551-39ad4121eedc.jpg)
+<p align="center">
+<img src="https://i.ibb.co/Symw8dQ/Screenshot-2021-03-01-10-30-13-842-com-termux.jpg" alt="PREVIEW" width="350px" height="600px">
+</p>
 
-#### Disfruta -> by Team th3_pr3dat0r
+
+#### Disfruta -> by Team th3_pr3d4t0r
