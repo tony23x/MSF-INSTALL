@@ -1,9 +1,12 @@
-# MSF-INSTALL
-Script solo para Termux que automatiza la instalación de Metasploit Framework 
+<h1 align="center"> <i> MSF-INSTALL </i> </h1>
+<p>Script solo para Termux que automatiza la instalación de Metasploit Framework</p>
 
-## Para usarlo solo ejecuta
 
-(en orden):
+![autor]
+
+## Para usarlo solo ejecuta:
+
+(en orden)
 
        cd 
         
@@ -11,7 +14,7 @@ Script solo para Termux que automatiza la instalación de Metasploit Framework
 
        cd MSF-INSTALL;ls
 
-       chmod +x *
+       chmod +x msf-install.sh
 
        ./msf-install.sh 
 
@@ -22,5 +25,4 @@ Y listo!
 <img src="https://i.ibb.co/Symw8dQ/Screenshot-2021-03-01-10-30-13-842-com-termux.jpg" alt="PREVIEW" width="350px" height="700px">
 </p>
 
-
-#### Disfruta -> by Team th3_pr3d4t0r
+[autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
