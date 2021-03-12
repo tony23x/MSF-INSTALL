@@ -6,6 +6,7 @@
 
 
 ![autor]
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
 ## Para usarlo solo ejecuta:
 
