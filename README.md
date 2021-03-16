@@ -27,7 +27,7 @@ No actualice la versión del paquete ruby esto porque la gema pcaprub así lo re
 
 ## Preview:
 <p align="center">
-<img src="#" alt="PREVIEW" width="350px" height="650px">
+<img src="https://user-images.githubusercontent.com/55555800/111311915-c06d3e80-862c-11eb-9613-5f1ca38863a8.jpg" alt="PREVIEW" width="350px" height="650px">
 </p>
 
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
